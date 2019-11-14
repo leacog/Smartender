@@ -1,0 +1,7 @@
+Dokument ämnat att samla tankar angående hårdvarutformningnen.
+
+Grejer som behövs
+	12V spänningsregulator för pumpar (har nog nått nätaggregat liggande)
+	Inspänning till rasberry pi, t.ex. telefonladdare
+	Peristaltiska pumpar för vätskorna - Drivs med 12V och reläkort som kan interfaceas till rasberry pi genom en GPIO för varje pump
+	
